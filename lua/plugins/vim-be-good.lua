@@ -1,8 +1,7 @@
 return {
   {
     "ThePrimeagen/vim-be-good",
-    cmd = {
-      'VimBeGood'
-    },
+    cmd = "VimBeGood",
+    event = "VeryLazy",
   },
 }
